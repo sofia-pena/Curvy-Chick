@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>CURVY CHICK</title>
+<link rel="shortcut icon"href="ves.png"/>
+</head>
+<body bgcolor=black>
+<table align=right bgcolor=ffb6c1>
+<tr>
+<td><font face="time new roman" size=3><strong><center>SSMP</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table bgcolor=f08080>
+<td width=1500>
+<tr>
+<td><font face="time new roman" size=7><strong><center>Blusas Chick</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<table align=center bgcolor=ffe4e1>
+<td width=300>
+<tr>
+<td width=100><font size=5 face=time new roman><a href=index.html>Página Principal</A></font></td>
+<td width=100><font size=5 face=time new roman><a href=pag3.html>Pantalones</A></font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=.html>Vestidos</a></font></td>
+</tr>
+<br>
+<br>
+<br>
+<br>
+</table>
+<br>
+<br>
+<table align=left bgcolor=ffffff>
+<td width=500>
+<TR>
+<TD WIDTH=900 height=100 align=justify><font face=time new roman size=4>No existe prenda más básica y 
+favorecedora que una blusa o camisa blanca. A su vez, estas manifiestan miles de variaciones y estilos, 
+y en cada cambio de temporada siempre se convierte en una prenda estrella y súper necesaria en nuestro 
+armario. Atesoramos decenas de ellas, porque nunca pasan de moda y nunca tiramos ninguna, sino que añadimos 
+a la colección la enésima variación.
+<br>
+<br>
+Usar tallas grandes no te excluye de vestirte bien, pero tienes que cuidar más lo que te pones para hacerlo 
+con buen gusto y estilo. Estas son las cosas que NO debes hacer y cómo les puedes dar la vuelta para verte increíble.
+<br>
+<br>
+<br>
+1.Ni muy grande, ni muy chico
+<br>
+Todo tiene que ver con la proporción adecuada y más cuando eres gordita, empieza por las prendas que usas; ni muy apretadas, ni muy holgadas.
+<br>
+<br>
+<br>
+2.Ropa interior
+<br>
+Es clásico que la ropa interior saca más gorditos de los que tienes y esto se refleja inmediatamente en la ropa que llevas 
+puesta haciendo que te veas con más grande de lo que realmente estás.
+<br>
+<br>
+<br>
+3. Enfócate en lo que te gusta
+<br>
+El clásico error es que añoramos el cuerpo que no tenemos y seguimos buscando vestirnos como nos gustaría vernos, esto es lo 
+peor que podemos hacer. Entonces es importante que te centres en lo que te encanta de tu cuerpo y lo explotes. Esto hará que 
+te sientas con mayor confianza, misma que vas a reflejar y si escondes lo que te choca de tu cuerpo enfatizando lo que te gusta te vas a ver mucho mejor.
+<br>
+<br>
+<br>
+4.El color
+<br>
+Entiendo que no te guste vestirte de negro y que quieras verte más colorida, pero tienes que ser muy consciente que el color aumenta kilos si no está bien 
+utilizado. Si te pones pantalones azules con un saco amarillo te vas a ver más grande de lo que realmente estas. Combina colores brillantes con tonalidades 
+neutras. Busca que la prenda más colorida esté en la parte de tu cuerpo menos voluminosa o en la que quieras enfatizar para que el contraste con el neutro te 
+de, visualmente, un efecto de adelgazador.</font></td>
+</tr>
+</table>
+<img width=30% align=right src="blus.jfif"/>
+<table align=left bgcolor=ffc0cb>
+<td width=500>
+<tr>
+<td><CAPTION><font face=time new roman color=black size=5>links de tiendas</CAPTION></font></td>
+<td><CAPTION><font face=time new roman color=black size=5>links de tiendas</CAPTION></font></td>
+<td WIDTH=900 height=100><font size=6 face=time new roman><strong><center>CONSEJO</strong></font></td>
+<TR>
+<td WIDTH=900 height=100><font size=4 face=time new roman align=justify>Es clásico que te compras cuatro tallas menos porque el lunes empiezas la dieta, ¡eso nunca pasa! Mejor cómprate lo que se 
+te ve bien ahorita y busca armar tus looks lo más novedosos y cool que puedas. No te lamentes en el cambiador, mejor opta por las cosas que se te ven bien y que 
+consideras que cuando las uses te vas a sentir muy bien.</font></td>
+</tr>
+</table>
+<img width=30% align=right src="panta.jpg"/>
+<img width=30% align=right src="pan.jpg"/>
+</HTML>

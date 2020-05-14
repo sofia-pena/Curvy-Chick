@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>INDEX</title>
+</head>
+<body bgcolor="black"/>
+<body>
+<table align=right bgcolor=ffb6c1>
+<tr>
+<td><font face="time new roman" size=3><strong><center>SSMP</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table bgcolor=f08080>
+<td width=1500>
+<tr>
+<td><font face="time new roman" size=7><strong><center>CURVY CHICK</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<table align=center bgcolor=ffe4e1>
+<td width=100>
+<tr>
+<td width=100><font size=5 face=time new roman><a href=.html>Blusas</A></font></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=.html>Pantalones</A></font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=.html>Vestidos</a></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table align=left bgcolor=ffffff>
+<TR>
+<TD WIDTH=500 height=100 align=justify><font face=time new roman size=4>Esta página está diseñada para ayudar a todas esas chicas curvy que todavía no saben lo hermosas que se ven con su cuerpo y como poder sacar el máximo potencial de ellos.
+<br>
+<br>
+  Podrás encontrar la ropa que está en tendencia y como ajustarla a tus curvas, también te daremos tips para utilizarlas y algunos trucos que tal vez no sabias, pondremos a tu disposición los links de páginas que tiene ropa para chicas plus size en tendencia, para todo tipo de cuerpo, tallas grandes y con precios muy accesibles. 
+<br>
+<br>
+Te demostraremos que te puedes vestir muy cool y con poco presupuesto. </font></td>
+</tr>
+</table>
+
+

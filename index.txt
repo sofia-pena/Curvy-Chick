@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>CURVY CHICK</title>
+<link rel="shortcut icon"href="ves.png"/>
+</head>
+<body bgcolor=black>
+<table align=right bgcolor=ffb6c1>
+<tr>
+<td><font face="time new roman" size=3><strong><center>SSMP</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table bgcolor=f08080>
+<td width=1500>
+<tr>
+<td><font face="time new roman" size=7><strong><center>CURVY CHICK</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<table align=center bgcolor=ffe4e1>
+<td width=100>
+<tr>
+<td width=100><font size=5 face=time new roman><a href=pag2.html>Blusas</A></font></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=pag3.html>Pantalones</A></font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=.html>Vestidos</a></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table align=left bgcolor=ffffff>
+<td width=900>
+<TR>
+<TD WIDTH=500 height=100 align=justify><font face=time new roman size=4>Esta página está diseñada para ayudar a todas esas chicas curvy que todavía no saben lo hermosas que se ven con su cuerpo y como poder sacar el máximo potencial de ellos.
+<br>
+<br>
+  Podrás encontrar la ropa que está en tendencia y como ajustarla a tus curvas, también te daremos tips para utilizarlas y algunos trucos que tal vez no sabias, pondremos a tu disposición los links de páginas que tiene ropa para chicas plus size en tendencia, para todo tipo de cuerpo, tallas grandes y con precios muy accesibles. 
+<br>
+<br>
+Te demostraremos que te puedes vestir muy cool y con poco presupuesto.
+<br>
+<br>
+La idea de esta pagina empieza con el movimiento “body positive”, en el podemos ver una lucha para que la humanidad se quiete los estereotipos de belleza y vea que 
+todos somos hermoso, incluso con nuestros “defectos”, es una buena forma que las generaciones futuras crezcan amándose a ellos mismos y dejando de criticar a los 
+demás y es que si nos ponemos a pensar, cuando una persona se ama no necesita hacer menos a otra, esto quiere decir que con este movimiento se combate el bullying 
+que se vive día con día y que a todos nos a pasado.</font></td>
+</tr>
+</table>
+<img width=30% align=right src="pantalon.jpg"/>
+<table align=left bgcolor=ffc0cb>
+<td width=900>
+<tr>
+<td><CAPTION><font face=time new roman color=ffffff size=5>links de tiendas</CAPTION></font></td>
+<td><font size=2 face=time new roman><a href=.html>https://es.zaful.com/?lkid=227304&gclid=CjwKCAjwwMn1BRAUEiwAZ_jnEl_oCtJN9jpPrk0RD3sV7jOHi881reTXpJWL3XMybA5
+GcXibK6vQsBoCY4kQAvD_BwE</a></font></td>
+</tr>
+<tr>
+<td><font size=2 face=time new roman><a href=.html>http://www.dresslink.com/?gclid=CjwKCAjwwMn1BRAUEiwAZ_jnEoyXKzQeEaGviBUITQ11rPlsqg6_Tk5hN1Qg6lAJce0maFNk22qH8xoCwnQQAvD_BwE</a></font></td>
+</tr>
+</table>
+</html>

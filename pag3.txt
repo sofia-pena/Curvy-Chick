@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>CURVY CHICK</title>
+<link rel="shortcut icon"href="ves.png"/>
+</head>
+<body bgcolor=black>
+<table align=right bgcolor=ffb6c1>
+<tr>
+<td><font face="time new roman" size=3><strong><center>SSMP</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<table bgcolor=f08080>
+<td width=1500>
+<tr>
+<td><font face="time new roman" size=7><strong><center>Pantalones Chick</center></strong></font></td>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<table align=center bgcolor=ffe4e1>
+<td width=300>
+<tr>
+<td width=100><font size=5 face=time new roman><a href=index.html>Página Principal</A></font></td>
+<td width=100><font size=5 face=time new roman><a href=.html>Vestido</A></font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td width=100><font size=5 face=time new roman><a href=pag2.html>Blusas</a></font></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<table align=left bgcolor=ffffff>
+<td width=500>
+<TR>
+<TD WIDTH=900 height=100 align=justify><font face=time new roman size=4>Todas las mujeres del mundo, sin importar la talla, hemos sufrido el tedio de conseguir un 
+pantalón que nos guste y al probárnoslo la forma no encaja bien con nuestra figura. Lamentablemente, nadie ha escapado de esta situación. Por eso cuando consigas una
+ marca cuyo fit se adecúe perfecto a tu cuerpo, ¡no la dejes ir! Es casi como encontrar a tu alma gemela.
+<br>
+<br>
+La realidad es que muchas marcas tienen formas rectas y poco flexibles que no favorecen a aquellas que tienen curvas, sin embargo siempre hay alguien con espíritu 
+o profesión de estilista que da con los trucos claves para adaptar cualquier modelo de pantalón a sus necesidades.
+<br>
+<br>
+Tal y como ha compartido el portal Who What Wear, hay ciertos recursos a los que puedes recurrir para dar con el pantalón perfecto si eres una chica curvilínea o para 
+convertir aquellos que a primeras no funcionan totalmente con tu figura pero que igual te encantan.
+<br>
+<br>
+Existen muchos modelos de pantalones y 
+la mayoría no cubren al 100% las necesidades de las chicas curvy. Por ello, es importante que conozcas los diferentes 
+tipos de corte y cuáles te favorecen. La prenda debe tener la cintura alta y de bota. Estos son mucho mejor que los pitillos, 
+ya que estos resaltan de más las curvas quitándole estilo a tu silueta.
+<br>
+<br>
+1.Revisa el material
+<br>
+Si bien el corte es fundamental, el tipo de tela también lo es. Si bien las telas elásticas nos hacen sentir bien, el grosor
+ de estas puede jugarnos en contra. Si son muy delgadas, tu ropa interior se relucirá. Así que, si piensas en comprar un pantalón 
+strech, trata que sean texturas gruesas para evitarte este problema. Te sugerimos que busques uno de buena caída, como los de lino.
+<br>
+<br>
+2.Usa los pantalones de tu talla
+<br>
+En el pasado quedaron los tabús sobre las chicas curvy. Ser plus size no tiene nada de malo, siempre elige la talla que mejor se adapte 
+a tu cuerpo. Esta regla es para todas, la ropa debe adaptarse a tu figura y no al revés. Tener la talla correcta te hará sentir más cómoda y estilizada.
+<br>
+<br>
+3.No olvides que el largo es importante. 
+Si es un pantalón muy largo, busca a un sastre para que los adapte a tu estatura. Recuerda, los pantalones 
+perfectos no se doblan, se cortan.
+<br>
+<br>
+4.Cómo es el pantalón perfecto
+<br>
+Si eres alta, te puedes permitir los de pernera ancha, como los palazzo, de campana o los culotte. Si los eliges llamativos, combínalos con una prenda más ajustada 
+y básica en la parte de arriba y una perfecto de cuero.
+<br>
+<br>
+5.Para bajitas
+<br>
+Si no eres muy alta, el pantalón que más te favorecerá será el tapered, el pantalón amplio en la cadera y estrecho en el tobillo. Está súper de moda esta temporada 
+y puede combinarlo con todo. Además, acepta desde tacones hasta zapatillas deportivas.
+<br>
+<br>
+6.Apuesta por los boyfriend
+<br>
+Los vaqueros que más disimulan las caderas son los boyfriend, aunque puedes usar pitillos si eliges una blazer larga.
+<br>
+<br>
+7.Busca el equilibrio
+<br>
+Busca siempre el equilibrio: si tu parte de abajo es demasiado estrecha o corta, compénsala con una de arriba larga y amplia. Evita las prendas excesivamente holgadas
+ (eso es un error). Intenta no añadir muchas capas a tu look, te hará ver más pesada. Por ejemplo, si vistes una prenda oversize, que el resto del look sea un poco 
+ajustado.
+<br>
+<br>
+<font color=purple>8.Empieza por lo fácil: los accesorios</font>
+<br>
+Los complementos son tus aliados, porque “despistan“ y añaden un punto de interés en tu look. Así llamarás la atención a esos detalles y no a las zonas que te 
+causan conflicto. Además con los complementos no tendrás problemas en encontrar tu talla, podrás comprar en cualquier tienda.
+<br>
+<br>
+9.La importancia del material
+<br>
+Si viste un pantalón estilo legging, con tela stretch, la recomendación es que, si eres curvy, lo pienses dos veces. En su lugar, considera usar prendas con telas 
+como la seda o el lino, siempre favorecedores y siempre en tendencia.
+<br>
+<br>
+</font></br>
+</tr>
+</table>
+<img width=30% align=right src="panta.jpg"/>
+<img width=30% align=right src="pan.jpg"/>
+<table align=left bgcolor=ffc0cb>
+<td width=500>
+<tr>
+<td><CAPTION><font face=time new roman color=black size=5>links de tiendas</CAPTION></font></td>
+<td><CAPTION><font face=time new roman color=black size=5>links de tiendas</CAPTION></font></td>
+<td WIDTH=900 height=100><font size=6 face=time new roman><strong><center>CONSEJOS</strong></font></td>
+<tr>
+<td WIDTH=900 height=100><font size=4 face=time new roman align=justify>Los complementos son tus aliados, porque “despistan“ y añaden un punto de interés en tu look.
+ Así llamarás la atención a esos detalles y no a las zonas que te causan conflicto. Además con los complementos no tendrás problemas en encontrar tu talla, podrás 
+comprar en cualquier tienda.
+<br>
+<br>
+Llevar un cinturón fino marcando cintura ayudará a estilizar tu silueta si tienes la parte superior del cuerpo bastante grande. Puedes ponértelo con vestidos, monos...
+<br>
+<br>
+Las prendas estampadas no acaban en las rayas verticales. Mezcla estampados de diferente tamaño o color: los más grandes y claros, para la zona de menos volumen; y 
+los pequeños y oscuros, en la zona de tu cuerpo que quieras afinar. Es cierto que las rayas verticales estilizan, pero cuidado, deben ir asociadas a un buen corte.
+<br>
+<br>
+Combina los colores oscuros con colores alegres, crea ilusiones ópticas, elige un buen patrón y alégrate la vida. En cuanto a los modelos, si buscas esconder caderas,
+ despega tus prendas en esa zona o llévalas estrechas (una falda lápiz o un pantalón pitillo), y combínalas con prendas superiores más largas.
+<br>
+<br>
+No te pongas las mangas a mitad del brazo, te convierte en señora al segundo. Si no quieres enseñar brazos, mejor que vayan desde la muñeca hasta el codo o ya muy 
+cerca del hombro, pero nunca a mitad del antebrazo, sientan fatal. Si necesitas compensar un pecho voluminoso apuesta por los tirantes anchos, el escote en V y las 
+hombreras. El escote barco aligera el peso del cuello y esconde la peor parte de cualquier brazo.
+<br>
+<br>
+Ropa moldeadora y el sujetador perfecto. Hay que empezar por el interior, cubrir y sujetar es un básico ya que así todo te sentará mucho mejor. Debes lucir buenos 
+sujetadores que realcen tu figura. La clave es usar la talla correcta.
+<br>
+</font></td>
+</tr>
+</table>
+<img width=30% align=right src="ppp.jpg"/>
+</HTML>
